@@ -21,5 +21,17 @@ colnames <- c("col1", "col2", "col3")
 M1 <- matrix(V1, nrow = 3, byrow = TRUE, dimnames = list(rownames, colnames))
 print(M1)
 
-M1 <- matrix(M2, nrow = 3, byrow = TRUE, dimnames = list(rownames, colnames))
+M2 <- matrix(M2, nrow = 3, byrow = TRUE, dimnames = list(rownames, colnames))
 print(M2)
+
+addition <- M1 + M2
+print (addition)
+
+minus <- M1 - M2
+print(minus)
+
+multiply <- M1 * M2
+print(multiply)
+
+division <- M1/M2
+print(division)
