@@ -1,0 +1,178 @@
+"Student_ID","First_Name","Last_Name","Age","Gender","Course","Enrollment_Date","Total_Payments"
+"101","John","Smith","22","M","Data Science","2022-05-15",1200
+"102","Emily","Johnson","24","F","Machine Learnin","2022-03-18",1400
+"103","Michael","Williams","21","M","Data Science","2022-06-25",900
+"104","Sarah","Brown","23","F","Data Science",NA,1100
+"105","David","Davis","20","M","Web Developmen","2021-09-10",950
+"106","Jessica","Miller","25","F","Machine Learnin","2022-04-22",1300
+"107","Brian","Wilson","19","M","Data Science","2022-07-02",1000
+"108","Amanda","Taylor","22","F","Machine Learnin","2022-08-15",1200
+"109","William","Anderson","24","M","Data Science","2022-01-10",950
+"110","Olivia","Martinez","26","F","Data Science","2023-02-28",1150
+"111","Williams","Smith","22","M","Data Science","2022-05-15",1200
+"112","Emily","Emodi","24","F","Machine Learning","2022-03-18",1400
+"113","Esther","Adams","21","M","Data Science","2022-06-25",900
+"114","Sarah","Brown","23","F","Data Science",NA,1100
+"115","David","Davis","20","M","Web Development","2021-09-10",950
+"Davis","Davis","Brown","","M 25","Data Analytics","05-09-23",20
+"Anita","Anita","West","","F 24","4","05-01-20",30
+"Olawale Akintola","Olawale Akintola","","","M 20","Web Developmet","05-08-21",30
+"Wike","Wike","Akintola","","M 25","","06-05-22",36
+"","","Leke","","M 21","","07-09-23",40
+"Ayodele","Ayodele","","F","18","Machine Learning","08-09-23",37
+"","","","M","25","","09-09-22",37
+"","","","F","25","","10-09-21",37
+"","","","","","","11-09-21",NA
+"101","Ethan","Miller","22","M","Data Science","2022-05-15",1200101
+"Ethan","Miller","22","M","Data Science","2022-05-15","$1200,,,,,,",NA
+"102","Olivia","Johnson","24","F","Machine Learning","2022-03-18",1400102
+"Olivia","Johnson","24","F","Machine Learning","2022-03-18","$1400,,,,,,",NA
+"103","Noah","Williams","21","M","Data Science","2022-06-25",900103
+"Noah","Williams","21","M","Data Science","2022-06-25","$900,,,,,,",NA
+"104","Emma","Brown","23","F","Data Science",NA,1100104
+"Emma","Brown","23","F","Data Science",NA,"$1100,,,,,,",NA
+"105","Liam","Davis","20","M","Web Development","2021-09-10",950105
+"Liam","Davis","20","M","Web Development","2021-09-10","$950,,,,,,",NA
+"106","Ava","Miller","25","F","Machine Learning","2022-04-22",1300106
+"Ava","Miller","25","F","Machine Learning","2022-04-22","$1300,,,,,,",NA
+"107","William","Wilson","19","M","Data Science","2022-07-02",1000107
+"William","Wilson","19","M","Data Science","2022-07-02","$1000,,,,,,",NA
+"108","Sophia","Taylor","22","F","Machine Learning","2022-08-15",1200108
+"Sophia","Taylor","22","F","Machine Learning","2022-08-15","$1200,,,,,,",NA
+"109","James","Anderson","24","M","Data Science","2022-01-10",950109
+"James","Anderson","24","M","Data Science","2022-01-10","$950,,,,,,",NA
+"110","Isabella","Martinez","26","F","Data Science","2023-02-28",1150110
+"Isabella","Martinez","26","F","Data Science","2023-02-28","$1150,,,,,,",NA
+"500","Jackson","Murphy","21","M","Web Development","2023-06-05",1050500
+"Jackson","Murphy","21","M","Web Development","2023-06-05","$1050,,,,,,",NA
+"Joseph","Joseph","Williams","22","F 24","Machine Learning","08-01-23",20
+"Kylian","Kylian","Eden","78*","M","Machine Learning","08-01-24",20
+"Esther","Esther","Naomi","21*","F","Machine Learning","08-01-22",20
+"Lay","Lay","Martin","22","M","Web Developmet","08-01-24",20
+"Rock","Rock","Shy","23","M","Data Analytics","02-05-99",NA
+"144","Ethe","Miller","22","M","Data Science","2022-05-15",1200144
+"Ethe","Miller","22","M","Data Science","2022-05-15","$1200,,,,,,",NA
+"145","Olivian","Johnson","24","F","Machine Learning","2022-03-18",1400145
+"Olivian","Johnson","24","F","Machine Learning","2022-03-18","$1400,,,,,,",NA
+"146","Noah","Ray","21","M","Data Science","2022-06-25",900146
+"Noah","Ray","21","M","Data Science","2022-06-25","$900,,,,,,",NA
+"147","Emma","Brown","23","F","Data Science",NA,1100147
+"Emma","Brown","23","F","Data Science",NA,"$1100,,,,,,",NA
+"148","Liam","Davis","20","M","Web Development","2021-09-10",950148
+"Liam","Davis","20","M","Web Development","2021-09-10","$950,,,,,,",NA
+"149","Ava","Miller","25","F","Machine Learning","2022-04-22",1300149
+"Ava","Miller","25","F","Machine Learning","2022-04-22","$1300,,,,,,",NA
+"155","Benjamin","Thompson","20","M","Web Development","2022-11-14",1050155
+"Benjamin","Thompson","20","M","Web Development","2022-11-14","$1050,,,,,,",NA
+"156","Mia","Hernandez","23","F","Machine Learning","2022-09-20",1350156
+"Mia","Hernandez","23","F","Machine Learning","2022-09-20","$1350,,,,,,",NA
+"157","Alexander","Davis","21","M","Data Science","2022-07-05",920157
+"Alexander","Davis","21","M","Data Science","2022-07-05","$920,,,,,,",NA
+"114","Harper","Rodriguez","22","F","Data Science",NA,1120114
+"Harper","Rodriguez","22","F","Data Science",NA,"$1120,,,,,,",NA
+"115","Daniel","White","24","M","Web Development","2021-10-30",970115
+"Daniel","White","24","M","Web Development","2021-10-30","$970,,,,,,",NA
+"159","Emily","Murphy","21","F","Machine Learning","2023-08-02",1270159
+"Emily","Murphy","21","F","Machine Learning","2023-08-02","$1270,,,,,,",NA
+"101","Ethan","Miller","22","M","Data Science","2022-05-15",1200101
+"Ethan","Miller","22","M","Data Science","2022-05-15","$1200,,,,,,",NA
+"102","Olivia","Rayay","24","F","Machine Learning","2022-03-18",1400102
+"Olivia","Rayay","24","F","Machine Learning","2022-03-18","$1400,,,,,,",NA
+"103","Noah","Rock","21","M","Data Science","2022-06-25",900103
+"Noah","Rock","21","M","Data Science","2022-06-25","$900,,,,,,",NA
+"104","Emma","Brown","23","F","Data Science",NA,1100104
+"Emma","Brown","23","F","Data Science",NA,"$1100,,,,,,",NA
+"105","Liam","Davis","20","M","Web Development","2021-09-10",950105
+"Liam","Davis","20","M","Web Development","2021-09-10","$950,,,,,,",NA
+"106","Ava","Miller","25","F","Machine Learning","2022-04-22",1300106
+"Ava","Miller","25","F","Machine Learning","2022-04-22","$1300,,,,,,",NA
+"107","William","Wilson","19","M","Data Science","2022-07-02",1000107
+"William","Wilson","19","M","Data Science","2022-07-02","$1000,,,,,,",NA
+"108","Sophia","Taylor","22","F","Machine Learning","2022-08-15",1200108
+"Sophia","Taylor","22","F","Machine Learning","2022-08-15","$1200,,,,,,",NA
+"109","James","Anderson","24","M","Data Science","2022-01-10",950109
+"James","Anderson","24","M","Data Science","2022-01-10","$950,,,,,,",NA
+"110","Isabella","Martinez","26","F","Data Science","2023-02-28",1150110
+"Isabella","Martinez","26","F","Data Science","2023-02-28","$1150,,,,,,",NA
+"111","May","Thompson","20","M","Web Development","2022-11-14",1050111
+"May","Thompson","20","M","Web Development","2022-11-14","$1050,,,,,,",NA
+"112","Mia","Hernandez","23","F","Machine Learning","2022-09-20",1350112
+"Mia","Hernandez","23","F","Machine Learning","2022-09-20","$1350,,,,,,",NA
+"113","Alexander","Davis","21","M","Data Science","2022-07-05",920113
+"Alexander","Davis","21","M","Data Science","2022-07-05","$920,,,,,,",NA
+"114","Harper","Rodriguez","22","F","Data Science",NA,1120114
+"Harper","Rodriguez","22","F","Data Science",NA,"$1120,,,,,,",NA
+"500","Emily","Murphy","21","F","Machine Learning","2023-08-02",1270500
+"Emily","Murphy","21","F","Machine Learning","2023-08-02","$1270,,,,,,",NA
+NA,"Ben","Thompson","20","M","Web Development","2022-11-14",1050
+"Ben","Thompson","20","M","Web Development","2022-11-14","$1050,,,,,,",NA
+NA,"Mia","Hernandez","23","F","Machine Learning","2022-09-20",1350
+"Mia","Hernandez","23","F","Machine Learning","2022-09-20","$1350,,,,,,",NA
+NA,"Alexander","Davis","21","M","Data Science","2022-07-05",920
+"Alexander","Davis","21","M","Data Science","2022-07-05","$920,,,,,,",NA
+"Adeniran","Adeniran","Omoshola","22","F","Data Analysis","01-Jul-21",50000
+"Iwueze","Iwueze","Olaoluwa","23","M","Data Analysis","10-Jul-20",55
+"Faramotu Ismail","Faramotu Ismail","","23","M","Data Analysis","16-Jul-20",60
+"Ifarele","Ifarele","Adeola","23","M","Data Analysis","30-Aug-22",66
+"Folorunsho","Folorunsho","Dada","22","M","Web Development","01-Jul-22",73
+"Ikechukwu","Ikechukwu","Victor","22","M","Web Development","01-Jul-24",80
+"Ahmed","Ahmed","Mohammed","23","F","Web Development","19-Jul-21",88
+"Binta","Binta","Sanni","22","F","Web Development","01-Jul-21",97
+"Chukwu","Chukwu","Ike","22","M","Web Development","01-Jul-22",107
+"Ola Enioluwa","Ola Enioluwa","","22","F","Machine Learning","01-Jan-21",117
+"Okafor","Okafor","Chike","23","M","Data Analysis","11-Jul-20",129
+"Chika Nwosu","Chika Nwosu","","23","F","Data Analysis","09-Aug-21",142
+"Eze Chinedu","Eze Chinedu","","22","M","Data Analysis","01-Jul-23",156
+"Adaobi Ekeinde","Adaobi Ekeinde","","23","M","Data Analysis","09-Jul-23",172
+"Yusuf Ibrahim","Yusuf Ibrahim","","22","M","Cyber Security","01-Aug-05",189
+"Amaka Azikiwe","Amaka Azikiwe","","23","M","Cyber Security","28-Jul-23",208
+"Onyeka Okonkwo","Onyeka Okonkwo","","23","f","Cyber Security","16-Jul-16",229
+"Chioma Adebayo","Chioma Adebayo","","22","f","Cyber Security","01-Jul-22",252
+"Ifeanyi Ekpo","Ifeanyi Ekpo","","22","f","Cyber Security","01-Jul-22",277
+"Ngozi Abubakar","Ngozi Abubakar","","20","f","Cyber Security","01-Jul-24",305
+"Abdul Nasiru","Abdul Nasiru","","21","f","Cyber Security","01-Jul-23",336
+"Zainab Adeyemi","Zainab Adeyemi","","19","f","Cyber Security","01-Jul-22",370
+"Obinna Onwuka","Obinna Onwuka","","25","f","Data Analysis","09-Jul-23",407
+"Amina Osagie","Amina Osagie","","40","M","Data Analysis","01-Aug-05",447
+"Chinonso Uche","Chinonso Uche","","23","M","Data Analysis","28-Jul-23",492
+"Femi Abdullahi","Femi Abdullahi","","22","M","Data Analysis","01-Jul-23",541
+"Halima Bakare","Halima Bakare","","23","M","Data Analysis","17-Jul-22",595
+"Chibuzo Mohammed","Chibuzo Mohammed","","21","M","Data Analysis","01-Sep-20",655
+"Oluchi Iwuoha","Oluchi Iwuoha","","22","F","Machine Learning","31-Jan-21",721
+"Emeka Anikulapo","Emeka Anikulapo","","19","M","Data Analysis","19-Jul-24",793
+"Hadiza Ogundipe","Hadiza Ogundipe","","18","M","Data Analysis","06-Aug-22",872
+"Nneka Nwachukwu","Nneka Nwachukwu","","4","M","Web Develpment","01-Aug-23",959
+"Adeola Okoro","Adeola Okoro","","","M","Web Develpment","12-Jul-23",1
+"Idris Ibrahim","Idris Ibrahim","","23","M","Web Develpment","31-Aug-24",1
+"Chinyere Adeyemi","Chinyere Adeyemi","","23","M","","07-Oct-22",1
+"Umar Abdullahi","Umar Abdullahi","","22","M","Web Develpment","01-Jul-24",1
+"Nkem Adebayo","Nkem Adebayo","","20","M","Web Develpment","21-Jul-24",1
+"Ayodele Osagie","Ayodele Osagie","","22","F","Machine Learning","30-Jan-21",1
+"Chiwendu Ekpo","Chiwendu Ekpo","","21","M","Machine Learning","30-Jan-20",1
+"Fatima Azikiwe","Fatima Azikiwe","","22","F","Data Analysis","01-Jul-21",2
+"Chukwudi Ekeinde","Chukwudi Ekeinde","","19","M","Cyber Security","28-Aug-22",2
+"Kemi Uche","Kemi Uche","","18","M","Cyber Security","06-Jul-22",2
+"Jide Bakare","Jide Bakare","","18","M","Cyber Security","02-Sep-23",2
+"Adaobi Iwuoha","Adaobi Iwuoha","","19","M","Cyber Security","06-Aug-22",3
+"Suleiman Mohammed","Suleiman Mohammed","","23","M","Cyber Security","25-Sep-20",3
+"Ifeoluwa Anikulapo","Ifeoluwa Anikulapo","","23","M","Cyber Security","31-Aug-23",3
+"217","Chukwudi",NA,"22","M","Data Science","2022-05-15",1200
+"218","Ngozi","Eze","24","F","Machine Learning","2022-03-18",1400
+"219","Ifeoluwa","Adewale","21","M","Data Science","2022-06-25",900
+"220","Ada","Adeleke","23","F","Data Science",NA,1100
+"221","Kehinde","Bakare","20","M","Web Development","2021-09-10",950
+"222","Amara","Okonkwo","25","F","Machine Learning","2022-04-22",1300
+"223","Uche","Adebayo","19","M","Data Science","2022-07-02",1000
+"224","Nneka","Nwachukwu","22","F","Machine Learning","2022-08-15",1200
+"225","Emeka","Okafor","24","M","Data Science","2022-01-10",950
+"226","Chinyere","Nwosu","26","F","Data Science","2023-02-28",1150
+"227","Obinna","Onyekachi","20","M","Web Development","2022-11-14",1050
+"228","Chinwe","Okoye","23","F","Machine Learning","2022-09-20",1350
+"229","Ugochukwu","Okafor","21","M","Data Science","2022-07-05",920
+"230","Ijeoma","Uzoma","22","F","Data Science",NA,1120
+"231","Obi","Okonkwo","24","M","Web Development","2021-10-30",970
+"232","Amina","Adekunle","21","F","Machine Learning","2022-08-12",1270
+"234","Ibrahim","Okafor","22","M","Data Science","2022-02-03",950
+"235","Zainab","Abiodun","23","F","Web Development","2022-07-21",1050
+"236","Nasiru","Adebayo","24","M","Data Science","2022-05-09",1120
+"237","Aisha","Okonkwo","25","F","Machine Learning","2023-01-15",1300
